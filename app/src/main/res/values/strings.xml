@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vision</string>
+
+    <string-array name="AmazonVisionOptions">
+        <item>object and scene detection</item>
+        <item>facial analysis</item>
+    </string-array>
+</resources>
